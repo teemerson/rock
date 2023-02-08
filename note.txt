@@ -1,0 +1,7 @@
+This repository:
+git@bitbucket.org:teemerson/lfs-test.git
+
+Using with:
+git@github.com:teemerson/rock.git
+
+Demo pull LFS from bitbucket, then push to github.
