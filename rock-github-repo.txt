@@ -1,5 +1,6 @@
-git@github.com:teemerson/rock.git
+
+This repository:
+  git@github.com:teemerson/rock.git
 
 (This is submodule under the quest repo.)
-
 
